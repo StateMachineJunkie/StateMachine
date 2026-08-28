@@ -1,0 +1,31 @@
+## User settings
+xcuserdata/
+*.xcodeproj/xcuserdata/
+
+## User-specific project settings
+*.xcuserstate
+
+## Build artifacts
+DerivedData/
+.build/
+build
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Swift
+*.swiftpm
+*.swiftpm_xcode
+
+# Code coverage
+*.xcresult/
+
+# Playgrounds
+.playground/
